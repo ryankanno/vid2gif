@@ -1,4 +1,0 @@
-vid2gif
-=======
-
-Magic

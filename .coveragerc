@@ -1,0 +1,7 @@
+[run]
+
+omit =
+    */python?.?/*
+    */site-packages/nose/*
+    */tests/*
+    vid2gif/__init__.py
